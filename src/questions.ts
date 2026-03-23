@@ -328,7 +328,7 @@ export const questions: Question[] = [
   {
     questionNumber: 25,
     reference: "BAFS600C3Ch1-25",
-    text: "Betty is going to purchase a flat with a cash price of $1,500,000. The following are two financing proposals:\n\nProposal A: Borrow a loan of $1,500,000 from a bank on 1 January 20X4. The loan is repayable by a lump sum of $2,500,000 at the end of 20X6.\n\nProposal B: Purchase the flat from the developer by instalments as follows:\nDeposit (payable on 1 January 20X4): $700,000\nInstalment (payable at the end of 20X4): $600,000\nInstalment (payable at the end of 20X5): $500,000\nInstalment (payable at the end of 20X6): $400,000\nTotal: $2,200,000\nThe cost of capital is 12% per annum.\n\nWhat is the present value of the amount to be paid for Proposal A? (Correct to the nearest dollar)",
+    text: "Betty is going to purchase a flat with a cash price of $1,500,000. The following are two financing proposals:\n\nProposal A: Borrow a loan of $1,500,000 from a bank on 1 January 20X4. The loan is repayable by a lump sum of $2,500,000 at the end of 20X6.\n\nProposal B: Purchase the flat from the developer by instalments as follows:\nDeposit (payable on 1 January 20X4): $700,000\nInstalment (payable at the end of 20X4): $600,000\nInstalment (payable at the end of 20X5): $500,000\nInstalment (payable at the end of 20X6): $400,000\nTotal: $2,200,000\n\nThe cost of capital is 12% per annum.\n\nWhat is the present value of the amount to be paid for Proposal A? (Correct to the nearest dollar)",
     options: {
       A: "$1,446,759",
       B: "$1,500,000",
@@ -341,7 +341,7 @@ export const questions: Question[] = [
   {
     questionNumber: 26,
     reference: "BAFS600C3Ch1-26",
-    text: "Betty is going to purchase a flat with a cash price of $1,500,000. The following are two financing proposals:\n\nProposal A: Borrow a loan of $1,500,000 from a bank on 1 January 20X4. The loan is repayable by a lump sum of $2,500,000 at the end of 20X6.\n\nProposal B: Purchase the flat from the developer by instalments as follows:\nDeposit (payable on 1 January 20X4): $700,000\nInstalment (payable at the end of 20X4): $600,000\nInstalment (payable at the end of 20X5): $500,000\nInstalment (payable at the end of 20X6): $400,000\nTotal: $2,200,000\nThe cost of capital is 12% per annum.\n\nWhat is the present value of the amount to be paid for Proposal B? (Correct to the nearest dollar)",
+    text: "Betty is going to purchase a flat with a cash price of $1,500,000. The following are two financing proposals:\n\nProposal A: Borrow a loan of $1,500,000 from a bank on 1 January 20X4. The loan is repayable by a lump sum of $2,500,000 at the end of 20X6.\n\nProposal B: Purchase the flat from the developer by instalments as follows:\nDeposit (payable on 1 January 20X4): $700,000\nInstalment (payable at the end of 20X4): $600,000\nInstalment (payable at the end of 20X5): $500,000\nInstalment (payable at the end of 20X6): $400,000\nTotal: $2,200,000\n\nThe cost of capital is 12% per annum.\n\nWhat is the present value of the amount to be paid for Proposal B? (Correct to the nearest dollar)",
     options: {
       A: "$1,563,017",
       B: "$1,919,023",
@@ -354,7 +354,7 @@ export const questions: Question[] = [
   {
     questionNumber: 27,
     reference: "BAFS600C3Ch1-27",
-    text: "Betty is going to purchase a flat with a cash price of $1,500,000. The following are two financing proposals:\n\nProposal A: Borrow a loan of $1,500,000 from a bank on 1 January 20X4. The loan is repayable by a lump sum of $2,500,000 at the end of 20X6.\n\nProposal B: Purchase the flat from the developer by instalments as follows:\nDeposit (payable on 1 January 20X4): $700,000\nInstalment (payable at the end of 20X4): $600,000\nInstalment (payable at the end of 20X5): $500,000\nInstalment (payable at the end of 20X6): $400,000\nTotal: $2,200,000\nThe cost of capital is 12% per annum.\n\nBetty should adopt ________ because ________.",
+    text: "Betty is going to purchase a flat with a cash price of $1,500,000. The following are two financing proposals:\n\nProposal A: Borrow a loan of $1,500,000 from a bank on 1 January 20X4. The loan is repayable by a lump sum of $2,500,000 at the end of 20X6.\n\nProposal B: Purchase the flat from the developer by instalments as follows:\nDeposit (payable on 1 January 20X4): $700,000\nInstalment (payable at the end of 20X4): $600,000\nInstalment (payable at the end of 20X5): $500,000\nInstalment (payable at the end of 20X6): $400,000\nTotal: $2,200,000\n\nThe cost of capital is 12% per annum.\n\nBetty should adopt ________ because ________.",
     options: {
       A: "Proposal A ... the present value of the amount to be paid is lower",
       B: "Proposal A ... no instalments need to be paid",
