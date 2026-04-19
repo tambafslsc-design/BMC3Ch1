@@ -68,7 +68,7 @@ export const questions: Question[] = [
   {
     questionNumber: 5,
     reference: "BAFS600C3Ch1-5",
-    text: "Refer to Question 4, what is the future value of the money deposited after one year?",
+    text: "If Mr. Chan deposits $100 into a bank for one year at an annual interest rate of 5% compounded yearly, what is the future value of the money deposited after one year?",
     options: {
       A: "$95",
       B: "$100",
